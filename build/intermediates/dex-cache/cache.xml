@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Chen Hian\AndroidStudioProjects\GPSlocation-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Chen Hian\AndroidStudioProjects\GPSlocation-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-2f19873787fb0283e57bacb94705aab98b25c678.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chen Hian\AndroidStudioProjects\GPSlocation-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Chen Hian\AndroidStudioProjects\GPSlocation-master\app\build\intermediates\pre-dexed\debug\classes-1216c76bd0ebd01d8de509a6d16c1b30ab85c722.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chen Hian\AndroidStudioProjects\MapApplication - WIP v1.4\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Chen Hian\AndroidStudioProjects\MapApplication - WIP v1.4\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-a801e45b6c02a1aa5ff58c0ff418f781259065a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chen Hian\AndroidStudioProjects\MapApplication - Passing intent\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Chen Hian\AndroidStudioProjects\MapApplication - Passing intent\app\build\intermediates\pre-dexed\debug\classes-db73e535d76c03c8c8087a0b29ad29f2b91408dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chen Hian\AndroidStudioProjects\MapApplication - WIP v1.4\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Chen Hian\AndroidStudioProjects\MapApplication - WIP v1.4\app\build\intermediates\pre-dexed\debug\classes-8010486c77d514d695f37f7843a3cfa8b2af8933.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chen Hian\AndroidStudioProjects\GPSlocation-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Chen Hian\AndroidStudioProjects\GPSlocation-master\app\build\intermediates\pre-dexed\debug\classes-21f73228c944adb5fad215b3537d263722dc3ed4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chen Hian\AndroidStudioProjects\MapApplication - Passing intent\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Chen Hian\AndroidStudioProjects\MapApplication - Passing intent\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-9ea92f2b6444769cf9793efd9c39e6c995b90dfd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chen Hian\AndroidStudioProjects\MapApplication - WIP v1.4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Chen Hian\AndroidStudioProjects\MapApplication - WIP v1.4\app\build\intermediates\pre-dexed\debug\classes-7a613ab363beb0d3435986f87002e7c0a8636e96.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chen Hian\AndroidStudioProjects\MapApplication - Passing intent\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Chen Hian\AndroidStudioProjects\MapApplication - Passing intent\app\build\intermediates\pre-dexed\debug\classes-ae5e512d6bc32cbfb3ca48247e233130ebcccb96.jar" />
+    </item>
+    <item
+        jar="E:\Android SDK\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Chen Hian\AndroidStudioProjects\GPSlocation-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-e3204cd161300f572e80c4747c9114269823e675.jar" />
+    </item>
+
+</items>
